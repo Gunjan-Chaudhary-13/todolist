@@ -1,0 +1,28 @@
+body
+{
+    background-color: blanchedalmond;
+}
+#todo
+{
+    background-color: rgb(233, 222, 158);
+    border: 1px;
+    width: 35%;
+    height: 30vh;
+    border-radius: 2%;
+    margin-top: 5vh;
+    margin-left: 5vh;
+    border-radius: 0.6rem;
+}
+#todo_text{
+    color: rgb(62, 96, 230);
+    background-color: aqua;
+    text-align: center;
+    padding-top: 6%;
+    border-radius: 0.6rem;
+}
+#backdrop{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(159, 181, 200);
+    /* position: relative; */
+}
