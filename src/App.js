@@ -10,6 +10,7 @@ function App() {
         <Todo title='third'/>
         <Todo title='fourth'/>
         <Todo title='fifth'/>
+        <Todo title='sixth'/>
         <Backdrop/>
         <Modal/>
       </div>
